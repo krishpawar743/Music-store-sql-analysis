@@ -1,8 +1,8 @@
 # 🎵 Music Store SQL Analysis
 
-This project involves analyzing a relational music store database using SQL to extract meaningful business insights. It focuses on customer behavior, artist popularity, invoice trends, and genre preferences using real-world analytical queries.
+This project involves analyzing a relational music store database using SQL to extract meaningful business insights. It focuses on customer behavior, 
+Artist popularity, invoice trends, and genre preferences using real-world analytical queries.
 
----
 
 ## 📌 Project Objectives
 
@@ -12,7 +12,7 @@ This project involves analyzing a relational music store database using SQL to e
 - Measure long-play tracks and artist performance
 - Understand customer engagement through purchase patterns
 
----
+
 
 ## 🧰 Tools & Technologies
 
@@ -21,7 +21,6 @@ This project involves analyzing a relational music store database using SQL to e
 - **Environment**: DB Browser for SQLite / MySQL Workbench / VS Code
 - **Concepts Used**: Joins, CTEs, GROUP BY, ORDER BY, Aggregates
 
----
 
 ## ❓ Business Questions Solved
 
@@ -35,25 +34,19 @@ This project involves analyzing a relational music store database using SQL to e
 8. What are the longest tracks (by milliseconds)?
 9. How much has each customer spent on each artist?
 
----
 
-## 📊 Key Insights
 
-- AC/DC emerged as the top-selling artist.
-- USA had the highest number of invoice transactions.
-- Top customer spent more than ₹29 across all purchases.
-- A specific city generated the highest revenue — ideal for promotions.
-- Rock music genre has strong engagement among users.
+## 📊 Key Business Insights
+AC/DC emerged as the top-selling artist across all transactions.
+USA recorded the highest number of invoice purchases, highlighting its dominant market.
+The top customer’s lifetime spend exceeded ₹29, indicating strong customer loyalty.
+A specific city contributed the highest revenue, making it an ideal target for future promotional campaigns.
+The Rock music genre shows consistently high user engagement and sales performance.
 
----
 
-## 🧠 Learnings
-
-- Hands-on experience writing business-focused SQL queries
-- Improved understanding of multi-table JOINs and CTEs
-- Learned how to extract and present insights from normalized data
-- Gained confidence in solving real-world analyst problems using SQL
-
----
-
+## 🧠 Key Learnings & Skills Gained
+Developed business-centric SQL querying skills for actionable insights.
+Strengthened expertise in multi-table JOINs and CTEs for complex data analysis.
+Gained practical experience in extracting insights from normalized relational databases.
+Built confidence in solving real-world data analyst problems using SQL with a focus on business objectives.
 
