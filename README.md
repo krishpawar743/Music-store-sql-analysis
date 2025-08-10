@@ -18,7 +18,7 @@ Artist popularity, invoice trends, and genre preferences using real-world analyt
 
 - **Database**: Music Store Sample DB (Chinook-style)
 - **Language**: SQL (MySQL)
-- **Environment**: DB Browser for SQLite / MySQL Workbench / VS Code
+- **Environment**: DB Browser for SQLite / MySQL Workbench 
 - **Concepts Used**: Joins, CTEs, GROUP BY, ORDER BY, Aggregates
 
 
